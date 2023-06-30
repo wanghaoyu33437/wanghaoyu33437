@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghaoyu33437&show_icons=true&theme=flag-india)](https://github.com/wanghaoyu33437/)
+
 <font face="Cambria Math" color=black size=4>**Haoyu Wang ** is an Machine Learning Engineer and Researcher by profession. </font>
 
 ### <font face="Cambria Math" color=black size=6>Publication</font>
