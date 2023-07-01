@@ -29,7 +29,18 @@
 <details>
 <summary>Expand to View</summary>
 <pre>
-
+2021 OPPO AI安全竞赛-人脸识别攻防 (rank 14/2349)
+2022 天池-AAAI-2022 安全AI挑战者计划第八期：以数据为中心的鲁棒机器学习 (rank 8/3691)
+2022 天池-真实场景篡改图像检测挑战赛 (rank 15/1149)
+2022 CVPR 2022 Art Of Robustness Workshop Open Set Defense (rank 3)
+2022 华为云-域见杯 (rank 8)
+2022 微信大数据挑战赛：多模态短视频分类 (rank 60/2000+ 国三奖)
+2022 AISC人脸识别对抗赛道 (rank 5/179)
+2022 粤港澳大湾区-深度模型鲁棒性算法研究 (rank 9)
+2022 “SEED”第三届江苏大数据开发与应用大赛--医疗卫生赛道 (rank 5)
+2022 ATEC科技精英赛 (rank 16)
+2023 数字中国创新大赛DCIC-科技金融应用：欺诈风险识别 (rank 2)
+2023 CVPR 2023 Art Of Robustness Workshop: Vehicle Detection in the Physical-World (rank 1)
 </pre>
 </details>
 
