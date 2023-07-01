@@ -17,7 +17,7 @@
 
 ---
 
-<font face="Cambria Math" color=black size=4> Xiaogeng Liu, <b>Haoyu Wang</b>, Yechao Zhang, Shengshan Hu; Towards efficient data-centric robust machine learning with noise-based augmentation[J]. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</font>
+<font face="Cambria Math" color=black size=4> Xiaogeng Liu, <b>Haoyu Wang</b>, Yechao Zhang, Shengshan Hu; Towards efficient data-centric robust machine learning with noise-based augmentation[J]. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</font><br>
 <font face="Cambria Math" color=black size=4>Xiaogeng Liu, Minghui Li, <b>Haoyu Wang</b>, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</font>
 
 
