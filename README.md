@@ -17,8 +17,8 @@
 
 ---
 <ul>
-<font face="Cambria Math" color=black size=4> <li>Towards efficient data-centric robust machine learning with noise-based augmentation. Xiaogeng Liu, Haoyu Wang, Yechao Zhang, et al. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</li></font>
-<font face="Cambria Math" color=black size=4><li>Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency. Xiaogeng Liu, Minghui Li, Haoyu Wang, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</li></font>
+<font face="Cambria Math" color=black size=4><li> <b>Towards efficient data-centric robust machine learning with noise-based augmentation</b>. Xiaogeng Liu, Haoyu Wang, Yechao Zhang, et al. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</li></font>
+<font face="Cambria Math" color=black size=4><li> <b>Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency.</b> Xiaogeng Liu, Minghui Li, Haoyu Wang, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</li></font>
 </ul>
 
 
