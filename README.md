@@ -16,10 +16,9 @@
 ### <font face="Cambria Math" color=black size=6>Publication</font>
 
 ---
-<ul>
-<font face="Cambria Math" color=black size=4> <li>Xiaogeng Liu, Haoyu Wang, Yechao Zhang, Shengshan Hu; Towards efficient data-centric robust machine learning with noise-based augmentation[J]. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</li></font>
-<font face="Cambria Math" color=black size=4><li>Xiaogeng Liu, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</li></font>
-</ul>
+
+<font face="Cambria Math" color=black size=4> <Xiaogeng Liu, Haoyu Wang, Yechao Zhang, Shengshan Hu; Towards efficient data-centric robust machine learning with noise-based augmentation[J]. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</font>
+<font face="Cambria Math" color=black size=4>Xiaogeng Liu, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</font>
 
 
 
