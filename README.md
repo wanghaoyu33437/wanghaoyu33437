@@ -6,19 +6,20 @@
 ### <font face="Cambria Math" color=black size=6>Biography</font> 
 
 ---
-<font face="Cambria Math" color=black size=4> I'm Haoyu Wang, currently a master's student at Huazhong University of Science and Technology. Before that, I received my B.S. degree in Software Engineering from Nanchang University in 2021.
+<font face="Cambria Math" color=black size=4> I'm Haoyu Wang, currently a master's student at Huazhong University of Science and Technology. Before that, I received my B.S. degree in Software Engineering from Nanchang University in 2021. My research focuses on trustworthy AI and deepfakes.
 </font>
 <br>
-<font face="Cambria Math" color=black size=4> My research focuses on trustworthy AI and deepfakes. </font>
+<font face="Cambria Math" color=black size=4>  </font>
 
 
 
 ### <font face="Cambria Math" color=black size=6>Publication</font>
 
 ---
-
-<font face="Cambria Math" color=black size=4> Xiaogeng Liu, <b>Haoyu Wang</b>, Yechao Zhang, Shengshan Hu; Towards efficient data-centric robust machine learning with noise-based augmentation[J]. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</font><br>
-<font face="Cambria Math" color=black size=4>Xiaogeng Liu, Minghui Li, <b>Haoyu Wang</b>, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</font>
+<ul>
+<font face="Cambria Math" color=black size=4> <li>Towards efficient data-centric robust machine learning with noise-based augmentation. Xiaogeng Liu, Haoyu Wang, Yechao Zhang, et al. Adversarial Machine Learning and Beyond workshop at AAAI 2022.</li></font>
+<font face="Cambria Math" color=black size=4><li>Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency. Xiaogeng Liu, Minghui Li, Haoyu Wang, et al. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 16363-16372</li></font>
+</ul>
 
 
 
