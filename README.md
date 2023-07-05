@@ -26,8 +26,7 @@
 ### <font face="Cambria Math" color=black size=6>Competitions</font>
 
 ---
-<details>
-<summary>Expand to View</summary>
+
 <pre>
 2021 OPPO AI安全竞赛-人脸识别攻防 (rank 14/2349)
 2022 天池-AAAI-2022 安全AI挑战者计划第八期：以数据为中心的鲁棒机器学习 (rank 8/3691)
@@ -42,7 +41,6 @@
 2023 数字中国创新大赛DCIC-科技金融应用：欺诈风险识别 (rank 2)
 2023 CVPR 2023 Art Of Robustness Workshop: Vehicle Detection in the Physical-World (rank 1)
 </pre>
-</details>
 
 ---
 
