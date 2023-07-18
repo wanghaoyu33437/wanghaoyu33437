@@ -6,7 +6,7 @@
 ### <font face="Cambria Math" color=black size=6>Biography</font> 
 
 ---
-<font face="Cambria Math" color=black size=4> I'm Haoyu Wang, currently a master's student at Huazhong University of Science and Technology. Before that, I received my B.S. degree in Software Engineering from Nanchang University in 2021. My research focuses on trustworthy AI and deepfakes.
+<font face="Cambria Math" color=black size=4> I'm Haoyu Wang, currently a master's student at Huazhong University of Science and Technology. Before that, I received my B.S. degree in Software Engineering from Nanchang University in 2021. My research focuses on trustworthy AI and deepfake.
 </font>
 <br>
 <font face="Cambria Math" color=black size=4>  </font>
