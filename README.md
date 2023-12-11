@@ -40,6 +40,7 @@
 2022 ATEC科技精英赛 (rank 16)
 2023 数字中国创新大赛DCIC-科技金融应用：欺诈风险识别 (rank 2)
 2023 CVPR 2023 Art Of Robustness Workshop: Vehicle Detection in the Physical-World (rank 1)
+2023 第六届“强网”拟态防御国际精英挑战赛-AI安全赛道 (rank 4)
 </pre>
 
 ---
