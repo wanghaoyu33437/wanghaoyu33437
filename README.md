@@ -42,6 +42,7 @@
 2023 CVPR 2023 Art Of Robustness Workshop: Vehicle Detection in the Physical-World (rank 1)
 2023 第六届“强网”拟态防御国际精英挑战赛-AI安全赛道 (rank 4)
 2023 ATEC2023科技精英赛-网络安全大模型赛道 (rank 1)/AI生成新闻检测赛道 (rank 2)/大模型的工具学习赛道 (rank 4)
+2023 ATEC2023线下赛 (冠军)
 </pre>
 
 ---
